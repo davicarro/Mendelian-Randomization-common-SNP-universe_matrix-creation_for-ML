@@ -49,8 +49,7 @@ All intermediate datasets are cached as `.rds` objects to ensure:
 
 David Carro Vázquez
 Postdoctoral Researcher
-University of California San Francisco (UCSF)
-University of East Anglia (UEA)
+Universidad Europea de Andalucía (UEA)
 
 ## Notes
 
